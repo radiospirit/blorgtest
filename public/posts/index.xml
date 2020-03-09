@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on sonic slices</title>
+		<link>https://example.com/posts/</link>
+		<description>Recent content in Posts on sonic slices</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sat, 07 Mar 2020 13:00:53 -0800</lastBuildDate>
+		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Spitz // Robinson [ スピッツ / ロビンソン ]</title>
+			<link>https://example.com/posts/spitz-robinson/</link>
+			<pubDate>Sat, 07 Mar 2020 13:00:53 -0800</pubDate>
+			
+			<guid>https://example.com/posts/spitz-robinson/</guid>
+			<description>I first heard Spitz&amp;lsquo;s music via the anime Honey and Clover (Hachimitsu to Kurōbā) back in college. This particular song of theirs wasn&amp;rsquo;t featured in the show, but is indicative of the kind of upbeat, sunny, jangly rock typical of their discography. From the opening guitar line to the wistful lyrics, &amp;ldquo;Robinson&amp;rdquo; conveys a summery kind of mood. There&amp;rsquo;s nuance in the juxtaposition between the upbeat pace of the song and the gentle melancholy of the melody.</description>
+			<content type="html"><![CDATA[
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/51CH3dPaWXc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>I first heard <a href="https://en.wikipedia.org/wiki/Spitz_(band)">Spitz</a>&lsquo;s music via the anime <a href="https://en.wikipedia.org/wiki/Honey_and_Clover">Honey and Clover (<em>Hachimitsu to Kurōbā</em>)</a> back in college. This particular song of theirs wasn&rsquo;t featured in the show, but is indicative of the kind of upbeat, sunny, jangly rock typical of their discography. From the opening guitar line to the wistful lyrics, &ldquo;Robinson&rdquo; conveys a summery kind of mood. There&rsquo;s nuance in the juxtaposition between the upbeat pace of the song and the gentle melancholy of the melody. The tune is deceptively optimistic, yet contains a dimension of pathos underneath the glistening guitars.</p>
+<p>Since the song isn&rsquo;t on U.S. Spotify, I haven&rsquo;t heard it in years - until my memory was recently jogged by a question regarding Japanese-language music. Out of curiosity, I searched for the band&rsquo;s music videos on Youtube, and there they were! I&rsquo;m happy to have a reason to remember a favorite song from my younger days.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

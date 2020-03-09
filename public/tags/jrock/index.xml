@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jrock on sonic slices</title>
+    <link>https://example.com/tags/jrock/</link>
+    <description>Recent content in jrock on sonic slices</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 07 Mar 2020 13:00:53 -0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/jrock/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spitz // Robinson [ スピッツ / ロビンソン ]</title>
+      <link>https://example.com/posts/spitz-robinson/</link>
+      <pubDate>Sat, 07 Mar 2020 13:00:53 -0800</pubDate>
+      
+      <guid>https://example.com/posts/spitz-robinson/</guid>
+      <description>I first heard Spitz&amp;lsquo;s music via the anime Honey and Clover (Hachimitsu to Kurōbā) back in college. This particular song of theirs wasn&amp;rsquo;t featured in the show, but is indicative of the kind of upbeat, sunny, jangly rock typical of their discography. From the opening guitar line to the wistful lyrics, &amp;ldquo;Robinson&amp;rdquo; conveys a summery kind of mood. There&amp;rsquo;s nuance in the juxtaposition between the upbeat pace of the song and the gentle melancholy of the melody.</description>
+    </item>
+    
+  </channel>
+</rss>
